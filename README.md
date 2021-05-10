@@ -10,4 +10,4 @@ In tasks 1 and 2, the aim is to create versions of the ‘Cases by Day’ and �
 
 In task 3, the aim is to use data about Toronto’s neighbourhoods, drawn once again from the Toronto COVIDportal, this time under ‘Neighbourhood Maps’, as well as neighbourhood profile data from the 2016 census, from the OpenData Toronto portal.
 
-(Instructions in the data exploration assignment in STA303 from Professor Liza Bolton)
+(The above is the instruction of the data exploration assignment in STA303 from Professor Liza Bolton)
